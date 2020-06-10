@@ -22,7 +22,7 @@ A "grades-escolares" consiste em uma API para controlar notas de alunos em maté
   
   - value : nota da atividade. Exemplo: 10.
   
-  - timestamp : horário do lançamento. Exemplo: 2020-05-19T18:21:24.964Z. Dica: utilizar o new Date do JavaScript.
+  - timestamp : horário do lançamento. Exemplo: 2020-05-19T18:21:24.964Z.
   
   O arquivo grades.json será previamente fornecido com alguns registros inseridos.
   Seus endpoints devem trabalhar considerando a existência deles, não devendo criar um arquivo limpo para utilização.
