@@ -1,0 +1,153 @@
+2020-06-10T01:34:41.301Z [grades-control-api] info: API started.
+2020-06-10T01:35:11.930Z [grades-control-api] error: Teste inicial - Assim exibe o ERROR log.
+2020-06-10T01:35:11.931Z [grades-control-api] warn: Teste inicial - Assim exibe o WARN started.
+2020-06-10T01:35:29.412Z [grades-control-api] info: API started.
+2020-06-10T01:41:56.957Z [grades-control-api] info: API started.
+2020-06-10T01:44:16.440Z [grades-control-api] info: GET / (TODAS AS GRADES)
+2020-06-10T01:46:26.622Z [grades-control-api] info: API started.
+2020-06-10T01:46:38.255Z [grades-control-api] info: API started.
+2020-06-10T01:47:24.025Z [grades-control-api] info: API started.
+2020-06-10T01:47:41.834Z [grades-control-api] info: GET /53 - Nenhuma grade com id digitada
+2020-06-10T01:50:03.838Z [grades-control-api] info: API started.
+2020-06-10T01:50:06.939Z [grades-control-api] info: GET /22 - {"id":22,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Desafio","value":9,"timestamp":"2020-05-19T18:21:25.090Z"}
+2020-06-10T01:50:11.058Z [grades-control-api] info: GET /28 - {"id":28,"student":"Roberto Achar","subject":"04 - MongoDB","type":"Fórum","value":7,"timestamp":"2020-05-19T18:21:25.150Z"}
+2020-06-10T01:50:14.418Z [grades-control-api] info: GET /48 - {"id":48,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Desafio","value":45,"timestamp":"2020-05-19T18:21:25.284Z"}
+2020-06-10T01:50:17.136Z [grades-control-api] info: GET /58 - Nenhuma grade com id digitada
+2020-06-10T01:54:36.102Z [grades-control-api] info: API started.
+2020-06-10T01:54:43.438Z [grades-control-api] info: GET /1 - {"id":1,"student":"Loiane Groner","subject":"01 - JavaScript","type":"Fórum","value":15,"timestamp":"2020-05-19T18:21:24.958Z"}
+2020-06-10T02:03:58.548Z [grades-control-api] info: PUT / - {"id":11,"student":"Roberto Justus","subject":"09 - Empreendedorismo","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:25.019Z"}
+2020-06-10T02:04:10.539Z [grades-control-api] info: PUT / - {"id":18,"student":"Roberta Arcoverde","subject":"02 - Node","type":"Trabalho Prático","value":21,"timestamp":"2020-05-19T18:21:25.066Z"}
+2020-06-10T02:04:15.660Z [grades-control-api] info: PUT / - Não há grade com o índice 108 digitado
+2020-06-10T02:07:26.997Z [grades-control-api] info: API started.
+2020-06-10T02:09:19.801Z [grades-control-api] info: API started.
+2020-06-10T02:09:34.862Z [grades-control-api] info: POST / - id 50 - {"id":50,"student":"Adalberto Adalto","subject":"03 - React","type":"Desafio","value":2,"timestamp":"2020-06-10T02:09:34.860Z"}
+2020-06-10T02:10:19.812Z [grades-control-api] info: POST / - id 51 - {"id":51,"student":"Mário da Silva","subject":"59 - Castelo","type":"Desafio","value":321,"timestamp":"2020-06-10T02:10:19.811Z"}
+2020-06-10T02:10:54.441Z [grades-control-api] info: DELETE /50 - {"student":"Adalberto Adalto","subject":"03 - React","type":"Desafio","value":2,"timestamp":"2020-06-10T02:09:34.860Z"}
+2020-06-10T02:12:12.537Z [grades-control-api] info: API started.
+2020-06-10T02:13:07.600Z [grades-control-api] info: API started.
+2020-06-10T02:13:56.832Z [grades-control-api] info: API started.
+2020-06-10T02:13:58.087Z [grades-control-api] error: DELETE - TypeError: Cannot read property 'id' of undefined
+2020-06-10T02:14:37.739Z [grades-control-api] info: API started.
+2020-06-10T02:14:38.790Z [grades-control-api] error: DELETE - TypeError: Cannot read property 'id' of undefined
+2020-06-10T02:14:51.639Z [grades-control-api] error: DELETE - TypeError: Cannot read property 'id' of undefined
+2020-06-10T02:14:53.360Z [grades-control-api] error: DELETE - TypeError: Cannot read property 'id' of undefined
+2020-06-10T02:18:04.328Z [grades-control-api] info: API started.
+2020-06-10T02:20:49.021Z [grades-control-api] info: API started.
+2020-06-10T02:20:55.074Z [grades-control-api] warn: PUT / - Nenhuma grade com o índice 88 digitado
+2020-06-10T02:20:59.989Z [grades-control-api] warn: DELETE /58 - Nenhuma grade com o índice digitado}
+2020-06-10T02:21:04.186Z [grades-control-api] info: GET /51 - {"id":51,"student":"Mário da Silva","subject":"59 - Castelo","type":"Desafio","value":321,"timestamp":"2020-06-10T02:10:19.811Z"}
+2020-06-10T02:21:06.637Z [grades-control-api] warn: GET /52 - Nenhuma grade com o índice digitado
+2020-06-10T02:25:02.329Z [grades-control-api] info: API started.
+2020-06-10T02:28:29.677Z [grades-control-api] info: API started.
+2020-06-10T02:30:51.467Z [grades-control-api] info: API started.
+2020-06-10T02:31:06.799Z [grades-control-api] info: GET /melhores /03 - React /Trabalho Prático
+2020-06-10T02:31:10.028Z [grades-control-api] info: GET /media /04 - MongoDB /Trabalho Prático - média = 26
+2020-06-10T02:31:12.312Z [grades-control-api] info: GET /total /Roberto Achar /03 - React - total = 70
+2020-06-10T02:31:16.695Z [grades-control-api] info: GET / (TODAS AS GRADES)
+2020-06-10T02:33:25.233Z [grades-control-api] info: API started.
+2020-06-10T02:33:58.749Z [grades-control-api] info: API started.
+2020-06-10T02:34:59.314Z [grades-control-api] info: API started.
+2020-06-10T02:35:06.587Z [grades-control-api] info: API started.
+2020-06-10T02:35:08.102Z [grades-control-api] info: API started.
+2020-06-10T02:35:32.821Z [grades-control-api] warn: GET /52 - Nenhuma grade com o índice digitado
+2020-06-10T02:35:35.089Z [grades-control-api] info: GET /51 - {"id":51,"student":"Mário da Silva","subject":"59 - Castelo","type":"Desafio","value":321,"timestamp":"2020-06-10T02:10:19.811Z"}
+2020-06-10T02:35:38.403Z [grades-control-api] warn: GET /50 - Nenhuma grade com o índice digitado
+2020-06-10T02:35:43.285Z [grades-control-api] info: GET /49 - {"id":49,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-10T00:07:35.563Z"}
+2020-06-10T02:35:48.710Z [grades-control-api] info: GET /48 - {"id":48,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Desafio","value":45,"timestamp":"2020-05-19T18:21:25.284Z"}
+2020-06-10T02:35:53.427Z [grades-control-api] info: GET /47 - {"id":47,"student":"Rodrigo Branas","subject":"03 - React","type":"Desafio","value":36,"timestamp":"2020-05-19T18:21:25.278Z"}
+2020-06-10T02:35:56.390Z [grades-control-api] info: GET /46 - {"id":46,"student":"Rodrigo Branas","subject":"02 - Node","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.272Z"}
+2020-06-10T02:36:02.481Z [grades-control-api] info: DELETE /46 - {"student":"Rodrigo Branas","subject":"02 - Node","type":"Desafio","value":44,"timestamp":"2020-05-19T18:21:25.272Z"}
+2020-06-10T02:37:31.689Z [grades-control-api] info: POST / - id 52 - {"id":52,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T02:37:31.689Z"}
+2020-06-10T02:37:53.505Z [grades-control-api] info: GET /52 - {"id":52,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T02:37:31.689Z"}
+2020-06-10T02:37:57.741Z [grades-control-api] info: PUT / - {"id":52,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T02:37:31.689Z"}
+2020-06-10T02:38:01.618Z [grades-control-api] info: GET /52 - {"id":52,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:37:31.689Z"}
+2020-06-10T02:40:56.049Z [grades-control-api] info: API started.
+2020-06-10T02:41:09.905Z [grades-control-api] info: DELETE /52 - {"student":"Luigi","value":10,"timestamp":"2020-06-10T02:37:31.689Z"}
+2020-06-10T02:41:13.995Z [grades-control-api] info: POST / - id 53 - {"id":53,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T02:41:13.994Z"}
+2020-06-10T02:41:18.945Z [grades-control-api] info: GET /53 - {"id":53,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T02:41:13.994Z"}
+2020-06-10T02:41:25.154Z [grades-control-api] info: POST / - id 54 - {"id":54,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T02:41:34.812Z [grades-control-api] info: PUT / - {"id":54,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T02:44:30.285Z [grades-control-api] info: API started.
+2020-06-10T02:53:31.509Z [grades-control-api] info: API started.
+2020-06-10T02:53:56.345Z [grades-control-api] info: PUT / - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T02:54:10.624Z [grades-control-api] info: API started.
+2020-06-10T02:54:11.596Z [grades-control-api] info: PUT / - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T02:59:09.225Z [grades-control-api] info: API started.
+2020-06-10T02:59:12.168Z [grades-control-api] info: PUT / - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T03:06:55.203Z [grades-control-api] info: API started.
+2020-06-10T03:06:57.286Z [grades-control-api] error: PUT / - ReferenceError: obj is not defined
+2020-06-10T03:07:09.824Z [grades-control-api] info: API started.
+2020-06-10T03:07:10.903Z [grades-control-api] info: PUT / - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T03:07:49.085Z [grades-control-api] info: API started.
+2020-06-10T03:07:54.542Z [grades-control-api] info: PUT / - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T03:08:21.613Z [grades-control-api] info: API started.
+2020-06-10T03:08:24.430Z [grades-control-api] info: PUT / - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T03:10:14.747Z [grades-control-api] info: API started.
+2020-06-10T03:14:16.274Z [grades-control-api] info: API started.
+2020-06-10T03:15:20.057Z [grades-control-api] info: API started.
+2020-06-10T03:15:38.751Z [grades-control-api] info: API started.
+2020-06-10T03:15:43.465Z [grades-control-api] info: API started.
+2020-06-10T03:18:57.178Z [grades-control-api] info: API started.
+2020-06-10T03:19:04.597Z [grades-control-api] info: PUT / - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T03:19:16.064Z [grades-control-api] info: API started.
+2020-06-10T03:19:16.903Z [grades-control-api] info: PUT / - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T03:19:54.611Z [grades-control-api] info: API started.
+2020-06-10T03:20:07.877Z [grades-control-api] info: GET /54 - {"id":54,"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T03:20:15.465Z [grades-control-api] warn: GET /55 - Nenhuma grade com o índice digitado
+2020-06-10T03:20:20.262Z [grades-control-api] info: DELETE /54 - {"student":"Luigi","value":10,"timestamp":"2020-06-10T02:41:25.154Z"}
+2020-06-10T03:20:25.468Z [grades-control-api] info: POST / - id 55 - {"id":55,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T03:20:25.467Z"}
+2020-06-10T03:20:29.297Z [grades-control-api] info: GET /55 - {"id":55,"student":"Mário da Silva","subject":"1000 - Zerou","type":"Completo","value":111,"timestamp":"2020-06-10T03:20:25.467Z"}
+2020-06-10T03:20:35.283Z [grades-control-api] warn: PUT / - Nenhuma grade com o índice 54 digitado
+2020-06-10T03:20:56.612Z [grades-control-api] info: API started.
+2020-06-10T03:21:14.793Z [grades-control-api] info: API started.
+2020-06-10T03:21:16.601Z [grades-control-api] error: PUT / - TypeError: Assignment to constant variable.
+2020-06-10T03:21:27.375Z [grades-control-api] info: API started.
+2020-06-10T03:21:28.006Z [grades-control-api] error: PUT / - TypeError: Assignment to constant variable.
+2020-06-10T03:21:54.292Z [grades-control-api] info: API started.
+2020-06-10T03:24:23.476Z [grades-control-api] info: API started.
+2020-06-10T03:24:34.976Z [grades-control-api] info: API started.
+2020-06-10T03:25:48.080Z [grades-control-api] info: API started.
+2020-06-10T03:26:36.752Z [grades-control-api] info: API started.
+2020-06-10T03:29:18.331Z [grades-control-api] info: API started.
+2020-06-10T03:32:12.357Z [grades-control-api] info: API started.
+2020-06-10T03:32:13.785Z [grades-control-api] error: PUT / - TypeError: newObj.property is not a function
+2020-06-10T03:35:08.276Z [grades-control-api] info: API started.
+2020-06-10T03:35:10.315Z [grades-control-api] error: PUT / - TypeError: newObj.property is not a function
+2020-06-10T03:35:52.126Z [grades-control-api] info: API started.
+2020-06-10T03:35:52.842Z [grades-control-api] error: PUT / - TypeError: newObj.property is not a function
+2020-06-10T03:36:03.976Z [grades-control-api] info: API started.
+2020-06-10T03:36:04.537Z [grades-control-api] error: PUT / - TypeError: newObj.property is not a function
+2020-06-10T03:36:24.120Z [grades-control-api] info: API started.
+2020-06-10T03:36:24.735Z [grades-control-api] error: PUT / - TypeError: newObj.property is not a function
+2020-06-10T03:36:45.283Z [grades-control-api] info: API started.
+2020-06-10T03:36:45.879Z [grades-control-api] error: PUT / - TypeError: newObj.property is not a function
+2020-06-10T03:37:26.599Z [grades-control-api] info: API started.
+2020-06-10T03:37:32.432Z [grades-control-api] info: API started.
+2020-06-10T03:40:42.986Z [grades-control-api] info: API started.
+2020-06-10T03:41:16.701Z [grades-control-api] info: API started.
+2020-06-10T03:43:48.319Z [grades-control-api] info: API started.
+2020-06-10T03:46:38.918Z [grades-control-api] info: API started.
+2020-06-10T03:46:47.373Z [grades-control-api] info: API started.
+2020-06-10T03:46:49.026Z [grades-control-api] info: API started.
+2020-06-10T03:47:04.519Z [grades-control-api] info: API started.
+2020-06-10T03:47:09.214Z [grades-control-api] info: API started.
+2020-06-10T03:47:14.161Z [grades-control-api] error: PUT / - ReferenceError: mergedGrade is not defined
+2020-06-10T03:47:32.987Z [grades-control-api] info: API started.
+2020-06-10T03:47:34.066Z [grades-control-api] error: PUT / - Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2020-06-10T03:48:14.196Z [grades-control-api] info: API started.
+2020-06-10T03:48:19.356Z [grades-control-api] info: PUT / - Valores antigos: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+      - Atualizado: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+2020-06-10T03:48:19.357Z [grades-control-api] error: PUT / - Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+2020-06-10T03:48:43.124Z [grades-control-api] info: API started.
+2020-06-10T03:48:44.070Z [grades-control-api] info: PUT / - Valores antigos: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+       - Atualizado: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+2020-06-10T03:49:35.776Z [grades-control-api] info: API started.
+2020-06-10T03:49:37.733Z [grades-control-api] info: PUT / - Valores antigos: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+       - Atualizado: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+2020-06-10T03:49:46.276Z [grades-control-api] info: API started.
+2020-06-10T03:49:47.453Z [grades-control-api] info: PUT / - Valores antigos: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+       - Atualizado: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+2020-06-10T03:50:37.061Z [grades-control-api] info: API started.
+2020-06-10T03:51:15.240Z [grades-control-api] info: API started.
+2020-06-10T03:51:17.545Z [grades-control-api] info: PUT / - Valores antigos: {"id":55,"student":"Luigi","subject":"1000 - Zerou","type":"Completo","value":10,"timestamp":"2020-06-10T03:20:25.467Z"}
+       Atualizado: {"id":55,"student":"Luigi","value":10}
