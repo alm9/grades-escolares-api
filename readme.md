@@ -1,6 +1,6 @@
-Trabalho desenvolvido no aprendizado de Rotas e de Criação de arquivos de log em Node.
+Trabalho desenvolvido com Middlewares, gerando arquivos de log com a biblioteca winston.
 
-A "grades-escolares" consiste em uma API para controlar notas de alunos em matérias de um curso. Foi desenvolvida no módulo 2 do curso de Desenvolvedor Full Stack, do IGTI. Os dados são guardados localmente, em arquivo.
+A "grades-escolares" consiste em uma API para controlar notas de alunos em matérias de um curso. Os dados são guardados localmente, em arquivo.
 
 # OBJETIVO:
 
